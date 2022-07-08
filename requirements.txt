@@ -1,0 +1,6 @@
+# Requirements
+
+torch==1.10.0
+tqdm
+tensorboard
+setuptools==59.5.0
